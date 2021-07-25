@@ -1,7 +1,7 @@
 import cv2
 import numpy as np
 '''
-第二周作业：
+第一次作业：
 1）最邻近插值实现
 2）双线性插值实现
 3）rgb2gray
