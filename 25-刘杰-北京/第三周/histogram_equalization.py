@@ -5,7 +5,7 @@
 @Project ：badou-Turing
 @File    ：histogram_equalization.py
 @Author  ：luigi
-@Date    ：2021/7/6 上午10:33 
+@Date    ：2021/7/6 上午10:33
 '''
 
 import cv2
@@ -15,7 +15,6 @@ import argparse
 
 def equalize(gray):
     """ 直方图均衡化实现方法
-
     :param gray: 灰度图像
     :type gray: np.ndarray(np.uint8)
     :return: 直方图均衡化的目标图像
@@ -76,5 +75,3 @@ def main():
 
 if __name__ == '__main__':
     main()
-
-
