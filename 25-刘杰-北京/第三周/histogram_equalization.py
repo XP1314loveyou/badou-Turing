@@ -3,7 +3,7 @@
 
 '''
 @Project ：badou-Turing
-@File    ：histogram_equalization.py
+@File    ：gray_histogram_equalization.py
 @Author  ：luigi
 @Date    ：2021/7/6 上午10:33 
 '''
